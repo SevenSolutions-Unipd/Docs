@@ -20,4 +20,5 @@ Cartella contenente i documenti riassuntivi sugli incontri interni ed esterni fa
 - Verbale esterno del 11-02-2022
 ## Presentazioni
 Cartella contenente le presentazioni utilizzate per le revisioni di avanzamento
+- Presentazione Candidatura
 - Presentazione Technology Baseline
