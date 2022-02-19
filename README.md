@@ -11,6 +11,7 @@ File PDF contenente i casi d'uso e i requisiti estrapolati per la realizzazione 
 ## Verbali
 Cartella contenente i documenti riassuntivi sugli incontri interni ed esterni fatti.
 - Verbale interno del 25-10-2021
+- Verbale interno del 08-11-2021
 - Verbale interno del 26-11-2021
 - Verbale interno del 03-12-2021
 - Verbale esterno del 16-12-2021
