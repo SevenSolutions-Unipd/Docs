@@ -1,13 +1,15 @@
 # Repository documentale
 Repo dedicata al mantenimento dei documenti relativi al progetto didattico di Ingegneria del Software.
-## Norme di Progetto
+## Norme di Progetto v2.0.0
 File PDF contenente il regolamento a cui il gruppo si attiene per il completo svolgimento del progetto.
-## Piano di Progetto
+## Piano di Progetto v2.0.0
 File PDF contenente l'organizzazione del lavoro in periodi e loro analisi a consuntivo.
-## Piano di Qualifica
+## Piano di Qualifica v2.0.0
 File PDF contenente le misure di qualità e i test da effettuare sulle componenti software.
-## Analisi dei Requisiti
+## Analisi dei Requisiti v2.0.0
 File PDF contenente i casi d'uso e i requisiti estrapolati per la realizzazione prodotto.
+## Glossario v1.0.0
+File PDF contenente la definizione dei termini di dominio del progetto.
 ## Verbali
 Cartella contenente i documenti riassuntivi sugli incontri interni ed esterni fatti.
 - Verbale interno del 25-10-2021
@@ -22,3 +24,4 @@ Cartella contenente i documenti riassuntivi sugli incontri interni ed esterni fa
 Cartella contenente le presentazioni utilizzate per le revisioni di avanzamento
 - Presentazione Candidatura
 - Presentazione Technology Baseline
+- Presentazione RTB
