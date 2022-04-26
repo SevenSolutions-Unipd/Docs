@@ -8,8 +8,10 @@ File PDF contenente l'organizzazione del lavoro in periodi e loro analisi a cons
 File PDF contenente le misure di qualità e i test da effettuare sulle componenti software.
 ## Analisi dei Requisiti v2.0.0
 File PDF contenente i casi d'uso e i requisiti estrapolati per la realizzazione prodotto.
-## Glossario v1.0.0
+## Glossario v2.0.0
 File PDF contenente la definizione dei termini di dominio del progetto.
+## Specifica Architetturale v1.0.0
+File PDF contenente le descrizione progettuale del sistema.
 ## Verbali
 Cartella contenente i documenti riassuntivi sugli incontri interni ed esterni fatti.
 - Verbale interno del 25-10-2021
