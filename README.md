@@ -13,17 +13,23 @@ File PDF contenente la definizione dei termini di dominio del progetto.
 ## Specifica Architetturale v1.0.0
 File PDF contenente le descrizione progettuale del sistema.
 ## Verbali
-Cartella contenente i documenti riassuntivi sugli incontri interni ed esterni fatti.
-###Interni
+Cartella contenente i documenti riassuntivi sugli incontri fatti, divisi tra interni ed esterni.
+Interni:
 - Verbale interno del 25-10-2021
 - Verbale interno del 08-11-2021
 - Verbale interno del 26-11-2021
 - Verbale interno del 03-12-2021
-###Esterni
+- Verbale interno del 07-01-2022
+- Verbale interno del 09-03-2022
+- Verbale interno del 15-04-2022
+Esterni:
 - Verbale esterno del 16-12-2021
 - Verbale interno del 07-01-2022
 - Verbale esterno del 18-01-2022
 - Verbale esterno del 11-02-2022
+- Verbale esterno del 11-03-2022
+- Verbale esterno del 31-03-2022
+- Verbale esterno del 26-04-2022
 ## Presentazioni
 Cartella contenente le presentazioni utilizzate per le revisioni di avanzamento
 - Presentazione Candidatura
