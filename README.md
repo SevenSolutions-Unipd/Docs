@@ -12,6 +12,8 @@ File PDF contenente i casi d'uso e i requisiti estrapolati per la realizzazione 
 File PDF contenente la definizione dei termini di dominio del progetto.
 ## Specifica Architetturale v1.0.0
 File PDF contenente le descrizione progettuale del sistema.
+## Manuale Utente
+File PDF contente una guida per chi deve interfacciarsi per la prima volta con il prodotto proposto.
 ## Verbali
 Cartella contenente i documenti riassuntivi sugli incontri fatti, divisi tra interni ed esterni.
 ### Interni:
