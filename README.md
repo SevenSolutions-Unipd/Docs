@@ -1,10 +1,10 @@
 # Repository documentale
 Repo dedicata al mantenimento dei documenti relativi al progetto didattico di Ingegneria del Software.
-## Norme di Progetto v3.0.0
+## Norme di Progetto v4.0.0
 File PDF contenente il regolamento a cui il gruppo si attiene per il completo svolgimento del progetto.
-## Piano di Progetto v3.0.0
+## Piano di Progetto v4.0.0
 File PDF contenente l'organizzazione del lavoro in periodi e loro analisi a consuntivo.
-## Piano di Qualifica v3.0.0
+## Piano di Qualifica v4.0.0
 File PDF contenente le misure di qualità e i test da effettuare sulle componenti software.
 ## Analisi dei Requisiti v3.0.0
 File PDF contenente i casi d'uso e i requisiti estrapolati per la realizzazione prodotto.
@@ -12,7 +12,7 @@ File PDF contenente i casi d'uso e i requisiti estrapolati per la realizzazione 
 File PDF contenente la definizione dei termini di dominio del progetto.
 ## Specifica Architetturale v1.0.0
 File PDF contenente le descrizione progettuale del sistema.
-## Manuale Utente
+## Manuale Utente v2.0.0
 File PDF contente una guida per chi deve interfacciarsi per la prima volta con il prodotto proposto.
 ## Verbali
 Cartella contenente i documenti riassuntivi sugli incontri fatti, divisi tra interni ed esterni.
@@ -24,6 +24,8 @@ Cartella contenente i documenti riassuntivi sugli incontri fatti, divisi tra int
 - Verbale interno del 07-01-2022
 - Verbale interno del 09-03-2022
 - Verbale interno del 15-04-2022
+- Verbale interno del 26-04-2022
+- Verbale interno del 10-05-2022
 ### Esterni:
 - Verbale esterno del 16-12-2021
 - Verbale interno del 07-01-2022
@@ -32,6 +34,8 @@ Cartella contenente i documenti riassuntivi sugli incontri fatti, divisi tra int
 - Verbale esterno del 11-03-2022
 - Verbale esterno del 31-03-2022
 - Verbale esterno del 26-04-2022
+- Verbale esterno del 02-05-2022
+- Verbale esterno del 13-05-2022
 ## Presentazioni
 Cartella contenente le presentazioni utilizzate per le revisioni di avanzamento
 - Presentazione Candidatura
