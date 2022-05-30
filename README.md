@@ -43,3 +43,5 @@ Cartella contenente le presentazioni utilizzate per le revisioni di avanzamento
 - Presentazione RTB
 - Presentazione Product Baseline
 - Presentazione PB
+- Presentazione Customer Acceptance - Pitch
+- Presentazione Customer Acceptance - Consuntivo
